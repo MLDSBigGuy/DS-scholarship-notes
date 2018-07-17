@@ -11,3 +11,15 @@
 ## Books
 
 Complete guide to ML with sklearn https://machinelearningmastery.com/machine-learning-with-python/
+
+sklearn API Base Reference :http://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection
+
+prediction - https://machinelearningmastery.com/make-predictions-scikit-learn/
+
+Automate ML pipeline with sklearn and py: https://machinelearningmastery.com/automate-machine-learning-workflows-pipelines-python-scikit-learn/
+
+CompareMLalgos with model_selection.cross_validate_score():  https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/
+
+Metrics To Evaluate Machine Learning Algorithms : https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
+
+MODEL VALIDATION : https://www.kaggle.com/dansbecker/model-validation
