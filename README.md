@@ -23,3 +23,9 @@ CompareMLalgos with model_selection.cross_validate_score():  https://machinelear
 Metrics To Evaluate Machine Learning Algorithms : https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
 
 MODEL VALIDATION : https://www.kaggle.com/dansbecker/model-validation
+
+Feature selection : https://machinelearningmastery.com/feature-selection-machine-learning-python/
+
+Parametertning : https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
+
+# Recommender System : https://machinelearningmastery.com/project-spotlight-with-artem-yankov/
